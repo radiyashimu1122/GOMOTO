@@ -1,0 +1,471 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+   margin-top: 15px;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+}
+.nav{
+    display:flex;
+}
+.list{
+    list-style-type: none;
+    color: white;
+    display: inline-flex;
+    margin-left: 900px;
+    gap: 50px;
+}
+section{
+width: 100%;
+    display: inline-flex;
+    margin-top: 100px;
+}
+.hero{
+    color:white ;
+    margin-top: 200px;
+    width:50% ;
+
+}
+p{
+text-align: justify;
+}
+button{
+    background-color:orange ;
+    padding:15px ;
+    width: 200px;
+    border-radius:10px ;
+    border: 1px solid #570df8;
+    margin-top: 50px;
+}
+.fast{
+    color: orange;
+ font-size: 30px;
+
+}
+.img{
+    width: 50%;
+  margin-top:100px ;
+}
+.gomotoimg{
+    width: 700px;
+    height: 600px;
+}
+.navigation{
+    background-color: white;
+    padding-bottom: 30px;
+}
+.resturant{
+    padding-top:30px;
+    margin-top:20%;
+  font-size: 30px;
+    color: black;
+    text-align: center;
+
+}
+.heading{
+    width:100%;
+    gap:1%;
+    margin-top:2% ;
+    background-color: white;
+    display: flex;
+    margin-bottom: 1%;
+}
+.tastyfood{
+    width: 23%;
+    margin-left:1% ;
+}
+.chefganteng{
+    width: 23%;
+    margin-left: 1%;
+}
+.organic{
+    width: 23%;
+    margin-left: 1%;
+}
+.masterchef{
+    width: 23%;
+  margin-left: 1%;
+}
+.h1paragraph{
+    width: 100%;
+    height: 1000px;
+  background-color:#eab308 ;
+padding-bottom: 40px;
+}
+.layout{
+    width: 50%;
+}
+.order{
+   
+    width: 50%;
+    margin-top: 260px;
+   color:rgb(59 130 246 / 50%);
+}
+.pizza{
+    height: 400px; 
+    width:600px ;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.onliefood{
+    font-size: 50px;
+    color: black;
+}
+.ifyou{
+    margin-right: 100px;
+    color: black;
+}
+.getpizza{
+    background-color: black;
+    color: white;
+    width: 100px;
+    padding: 15px;
+    border:1px solid  #570df8 ;
+margin-top: 5px;
+font-weight:bold;
+}
+.fourpicture{
+    display: inline-flex;
+    background-color: white;
+    width:100%;
+    height:500px ;
+}
+.details{
+   background-color: #eab308; 
+   width: 100px;
+   padding: 15px;
+   color:black;
+   font-weight: bold;
+   border-radius:5px;
+   margin-left: 170px;
+   margin-top:10px ;
+}
+.cheeseburger{
+    width:23% ;
+    margin-top:2%;
+    border:3px solid gray;
+    border-radius: 30px;
+    margin-left:1% ;
+}
+.bergerjpg{
+    width:200px ;
+    margin-left: 40px;
+    margin-top:50px;
+
+}
+.royal{
+    width:23% ;
+    border:3px solid gray;
+    border-radius: 30px;
+    margin-left: 1%;
+    margin-top:2%;
+}
+
+.viewmore{
+    background-color: black;
+    color: white;
+    width: 150px;
+    padding: 20px;
+margin-top: 40px;
+margin-left: 625px;
+margin-bottom:10px ;
+border: 2px solid #570df8;
+}
+.blackgambur{
+ width:23% ;  
+ border:3px solid gray;
+ border-radius: 30px;
+ margin-top:2%; 
+ margin-left: 1%;
+}
+.classicbcaon{
+    width:23% ;  
+    border:3px solid gray;
+    border-radius: 30px;
+    margin-top:2%; 
+    margin-left: 1%;   
+}
+.price{
+    font-size:30px;
+    margin-left: 30px;
+}
+.salad{
+    margin-left:30px;
+}
+.advicesection{
+    display: inline-flex;
+    background-color: #eab308;
+    width: 100%;
+    height: 1000px;
+}
+   
+.enjoy{
+    color: white;
+    font-size: 40px;
+}
+.delivery{
+    color: black;
+    font-size: 40px;
+    margin: top 0px;;
+}
+.express{
+    margin-top:350px ;
+    width:40%;
+    height: 300px;
+    margin-left: 15%;
+}
+.adviceimg{
+    margin-top: 400px;
+    width:40% ;
+    margin-left: 300px;
+}
+.advice{
+    width: 400px;
+    height: 300px;
+}
+.getgomoto{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    width: 120px;
+ margin-top: 10px;
+}
+
+.super{
+    text-align: center;
+}
+
+ .offer{
+    font-size: 40px;
+ }
+ .delicious{
+    color: #eab308;
+ }
+.siximage{
+    gap: 30px;
+    margin-left:200px ;
+    display: inline-flex;
+}
+h5{
+    margin-left:20px ;
+    color: gray;
+}
+h2{
+    margin-left: 20px;
+}
+h3{
+    margin-left: 20px;
+}
+.divone{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+  
+}
+.moreimage{
+    margin-top: 70px;
+    gap: 30px;
+    margin-left:200px ;
+    display: inline-flex;  
+}
+.twodiv{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;   
+}
+.twolayout{
+    width: 100%;
+    height: 700px;
+    margin-top: 20%;
+    display: inline-flex;
+}
+.getimage{
+ width: 30%; 
+ margin-left: 20%;  
+}
+.yourorder{
+    width: 500px;
+    height: 400px;
+}
+.fourdiv{
+    width:20% ;
+    margin-right: 20%;
+    margin-left:10% ;
+   margin-top: 100px;
+}
+.right{
+ font-weight: bold;
+}
+.orderfood{
+ margin-top: 5px;
+    background-color: black;
+    color: white;
+    padding: 12px;
+    width:115px;
+ border: 2px solid #570df8;
+}
+
+.how{
+  margin-bottom: 0%;  
+  padding-bottom: 0%;
+ margin-left: 500px; 
+ font-size: 40px;
+}
+.simple{
+    margin-top: 0%;
+    padding-top: 0%;
+    color:orange;
+    font-weight: bold;
+    margin-left: 550px;
+}
+.cartsection{
+    display: inline-flex;
+    gap:2%;
+}
+.orderimage{
+    width:250px ;
+    height: 250px;
+    margin-left: 40px;
+}
+   
+
+.hfourtag{
+font-weight: bolder;
+margin-left:20px ;
+}
+.threecart{
+    width:100% ;
+}
+.cartone{
+    margin-left: 3%;
+    width:30% ;
+ background-color:whitesmoke;
+ border-radius: 30px;
+}
+.paragraphcart{
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: normal;
+    margin-bottom:5%;
+}
+.carttwo{
+    width:30% ;
+    background-color:whitesmoke;
+    border-radius: 30px;
+}
+.cartthree{
+    width:30% ;
+    background-color:whitesmoke;
+    border-radius: 30px; 
+}
+.honeandhtwo{
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.meet{
+   
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    color:black;
+    margin-left: 530px;
+    font-size: 40px;
+}
+.team{
+    margin-top: 0%;
+    padding-top: 0%;
+    color:orange;
+    margin-left: 600px;
+}
+.carttwosection{
+    width: 100%;
+}
+.sectionone{
+  width:23% ;
+  margin-left: 3%;
+background-color:whitesmoke;
+border-radius: 30px;  
+}
+.alizeh{
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 200px;
+    height: 200px;
+border: 1px solid gainsboro;
+    border-radius: 100%;
+}
+.anderson{
+    margin-left:90px ;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.Senior{
+    margin-left:100px ;
+  margin-top:10px ;
+    padding-top: 0%;
+}
+
+   
+.three circel{
+    display: inline-flex;
+}
+.cart{
+    background-color:whitesmoke;
+ border-radius: 30px;
+}
+.part2{
+margin-left: 50px;
+gap: 5px;
+    display: inline-flex;
+}
+.circle{
+    margin-bottom: 30px;
+    padding: 3px;
+    border: 1px solid gray;
+   width: 40px; 
+   height: 40px;
+   border-radius: 100%; 
+}
+.twocartsection{
+    margin-top: 0%;
+    padding-top: 0%;
+    margin-left: 130px;
+    gap:10px ;
+}
+footer{
+    display: inline-flex;
+    width: 100%;
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+}
+.footerdiv{
+    width: 30%;
+    text-align: justify;
+    font-weight: normal;
+}
+.restaurant{
+    color: gray;
+    margin-left:40px;
+}
+.unlist{
+    list-style: none;
+}
+.lastfooter{
+    width: 100%;
+border-top: 1px solid #313641;
+}
+.copyright{
+  width:40% ;
+    font-weight: normal;
+}
+.expresshome{
+    margin-left: 0%;
+    padding-left: 0%;
+    width: 20%;
+    font-weight: normal;
+ margin-top: 0%;
+ padding-top: 0%;
+ margin-right: 300px;
+    
+}
